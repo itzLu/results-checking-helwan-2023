@@ -26,6 +26,6 @@
 
 ## Discord Server
 
-For receiving notifications from this script, join our Discord server: [Results Notification Server](https://discord.gg/cxPNyPe82C)
+To check notifications from this script, join our Discord server: [Results Notification Server](https://discord.gg/cxPNyPe82C)
 
 
